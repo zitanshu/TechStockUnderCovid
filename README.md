@@ -9,6 +9,6 @@
 6. streamlit run app.py
 
 ## File Description:
-Code Folder: Contains all the code needed to run the WebApp, please follow the procedure above to run
-Model Folder: Contains the raw code for model training 
-DEMO: This is the demo video for the WebApp
+Code Folder: Contains all the code needed to run the WebApp, please follow the procedure above to run    
+Model Folder: Contains the raw code for model training     
+DEMO: This is the demo video for the WebApp    
